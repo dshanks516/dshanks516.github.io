@@ -145,6 +145,27 @@ a.button small {
   display: block;
   font-size: 10px;
 }
+header i.git-pic{
+  background: transparent url(../images/git-pic.png) 0 0 no-repeat;
+}
+
+header i.linked-in{
+  background: transparent url(../images/linked-in.png) 0 0 no-repeat;
+}
+
+header i.google-plus{
+  background: transparent url(../images/google-plus.png) 0 0 no-repeat;
+}
+
+header i.facebook-pic{
+  background: transparent url(../images/facebook-pic.png) 0 0 no-repeat;
+}
+
+header i.twitter-pic{
+  background: transparent url(../images/twitter-pic.png) 0 0 no-repeat;
+}
+
+
 header a.button {
   position: absolute;
   right: 0;
