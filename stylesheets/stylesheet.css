@@ -62,6 +62,9 @@ a {
 a:hover {
   color: #2268b2;
 }
+a.tab:hover {
+  color: #ffc09d;
+}
 
 header {
   padding-top: 40px;
