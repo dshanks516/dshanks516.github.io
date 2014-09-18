@@ -140,6 +140,7 @@ a.button {
   padding-left: 0px;
   padding-top: 0px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  position: relative;
 }
 a.button small {
   display: block;
@@ -149,19 +150,12 @@ a.button small {
 
 
 header a.button {
-  position: relative;
+  
   right: 0;
   top: 0;
   /*background: transparent url(../images/github-button.png) 0 0 no-repeat;*/
 }
-aside a.button {
-  width: 138px;
-  padding-left: 64px;
-  display: block;
-  background: transparent url(../images/download-button.png) 0 0 no-repeat;
-  margin-bottom: 20px;
-  font-size: 21px;
-}
+
 
 a.tab {
   font-size: 26px;
