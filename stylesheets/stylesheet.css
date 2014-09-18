@@ -113,6 +113,8 @@ header h2 {
 }
 
 aside#hsidebar {
+  left: 100px;
+  bottom: 50px;
   width: 200px;
   padding-left: 20px;
   min-height: 130px;
